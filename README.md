@@ -1,3 +1,6 @@
 - Bacon
 - Eggs
 - Nintendo Switch
+- Jetpack
+- Escalator
+- Parchment paper
